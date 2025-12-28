@@ -1,0 +1,2 @@
+git checkout -b features   ---  // Creating a branch and Adding branch in vscode
+git push --set-upstream origin features ---  // Adding branch to the github
