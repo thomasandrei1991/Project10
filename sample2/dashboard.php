@@ -12,5 +12,15 @@
                 <h1>WELCOME TO DASHBOARD</h1>
             </nav>
         </header>
+        <section>
+            <aside>
+                <button onclick="location.href='logout.php'">Logout</button>
+            </aside>
+        </section>
+        <footer>
+            <nav>
+                <h1>FOOTER</h1>
+            </nav>
+        </footer>
     </body>
 </html>
