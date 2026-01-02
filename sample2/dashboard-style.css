@@ -22,22 +22,34 @@ aside{
     height: calc(100vh - 50px);
     width: 250px;
     background-color: #333;
+    border-radius: 10px;
+    margin-left: 5px;
     margin-bottom: 5px;
+}
+section{
+    display: flex;
+    flex-direction: row;
+}
+section img{
+    height: calc(100vh - 50px);
+    margin: 5px;
+    width: 1300px;
+    border-radius: 10px;
 }
 .button-container{
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 50px;
 }
 button{
     padding: 10px 20px;
-    font-size: 16px;
+    font-size: 15px;
     border: none;
     border-radius: 5px;
     background-color: #4CAF50;
     color: white;
     cursor: pointer;
     transition: background-color 0.3s ease;
-    width: 200px;
+    width: 150px;
 }
 /*#f4f4f4;*/

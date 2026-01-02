@@ -15,11 +15,14 @@
         <section>
             <aside>
                 <div class="button-container">
-                    <button type="button" onclick="location.href='profile.php'">Profile</button><br>
-                    <button type="button" onclick="location.href='settings.php'">Settings</button><br>
-                    <button type="button" onclick="location.href='logout.php'">Logout</button>
+                    <button>Appointment</button>
+                    <button>About Us</button>
+                    <button>Schedule</button>
+                    <button>Report</button>
+                    <button>Logout</button>
                 </div>
             </aside>
+            <img src="dashboard-logo.png" alt="logo">
         </section>
         <footer>
             <nav>
