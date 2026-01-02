@@ -24,4 +24,20 @@ aside{
     background-color: #333;
     margin-bottom: 5px;
 }
+.button-container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+button{
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 200px;
+}
 /*#f4f4f4;*/

@@ -14,7 +14,11 @@
         </header>
         <section>
             <aside>
-                <button onclick="location.href='logout.php'">Logout</button>
+                <div class="button-container">
+                    <button type="button" onclick="location.href='profile.php'">Profile</button><br>
+                    <button type="button" onclick="location.href='settings.php'">Settings</button><br>
+                    <button type="button" onclick="location.href='logout.php'">Logout</button>
+                </div>
             </aside>
         </section>
         <footer>
