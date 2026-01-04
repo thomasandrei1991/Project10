@@ -26,7 +26,7 @@
         </section>
         <footer>
             <nav>
-                <h1>FOOTER</h1>
+                <h1>www.aventus.com</h1>
             </nav>
         </footer>
     </body>
